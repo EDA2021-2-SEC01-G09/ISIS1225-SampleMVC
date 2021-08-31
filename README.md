@@ -10,7 +10,7 @@ Integrantes:
   
   Código: 202112109
     
-- Nombre: Andres Felipe Castro Leguizamon
+- Nombre: Andrés Felipe Castro Leguizamon
 
   Correo: a.castrol@uniandes.edu.co
   
